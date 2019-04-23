@@ -1,8 +1,9 @@
 <html>
   <head>
-  <style>
-    .center {tetext-align:center;}
-  </style>
+    <meta http-equiv="content-Type" content = "text/html; charset=UTF-8">
+    <style>
+      .center {tetext-align:center;}
+    </style>
   </head>
   <body>
     <div>TIL(Today I Learned)</div>
