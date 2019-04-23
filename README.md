@@ -1,10 +1,6 @@
 <html>
   <head>
     <meta http-equiv="content-Type" content = "text/html; charset=UTF-8">
-    <title>FE Study</title>
-    <style type = "text/css">
-      .center {tetext-align:center;}
-    </style>
   </head>
   <body>
     <div>TIL(Today I Learned)</div>
@@ -31,10 +27,10 @@
       </thead>
       <tbody>
         <tr>
-          <td class = 'center'>
+          <td style = 'tetext-align:center;'>
             1
           </td>
-          <td class = 'center'>
+          <td style = 'tetext-align:center;'>
             2019.04.23
           </td>
           <td>
@@ -57,10 +53,10 @@
           </td>
         </tr>
         <tr>
-          <td class = 'center'>
+          <td style = 'tetext-align:center;'>
             2
           </td>
-          <td class = 'center'>
+          <td style = 'tetext-align:center;'>
             2019.04.23
           </td>
           <td>
@@ -77,10 +73,10 @@
           </td>
         </tr>
         <tr>
-          <td class = 'center'>
+          <td style = 'tetext-align:center;'>
             index
           </td>
-          <td class = 'center'>
+          <td style = 'tetext-align:center;'>
             yyyy.mm.dd
           </td>
           <td>
@@ -91,10 +87,10 @@
           </td>
         </tr>
         <tr>
-          <td class = 'center'>
+          <td style = 'tetext-align:center;'>
             index
           </td>
-          <td class = 'center'>
+          <td style = 'tetext-align:center;'>
             yyyy.mm.dd
           </td>
           <td>
