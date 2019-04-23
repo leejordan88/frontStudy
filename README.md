@@ -34,10 +34,9 @@
             2019.04.23
           </td>
           <td>
-            카테고리
+            JS의 역사 및 탄생 그리고 미래
           </td>
           <td>
-            TIL<br>
             자바스크립트의 역사<br>
             자바스크립트는 동적 페이지 구현을 위한 언어이다.<br>
             버튼 클릭시 이벤트의 상세한 구현이나 서버와의 통신이 대부분 자바 스크립트로 이루어진다.<br>
@@ -51,6 +50,40 @@
             대표적인 라이브러리, 프레임워크는 JQuery, Angular, React, Vue 등이 있으며<br>
             백엔드에서는 자바스크립트 기반 런타임 환경인 Node JS 가 각광받고 있다.<br>
             출처: https://new93helloworld.tistory.com/207
+          </td>
+        </tr>
+        <tr>
+          <td>
+            2
+          </td>
+          <td>
+            2019.04.23
+          </td>
+          <td>
+            FE 개발자? 개발자?
+          </td>
+          <td>
+            <h3>프론트엔드 개발자의 길</h3>
+            일을 하다보면 오히려 본업이었던(?) HTML, CSS에 대한 작업이 매우 작은 부분이 될 수 있다.<br> 
+            위에 이야기한 업무들을 뒤로하고 프론트엔드는 그 중에서도 좀 세분화되는 것으로 보고있다.<br>
+            <li>CSS 스페셜리스트(optional)<li>
+            <li>UI 라이브러리 혹은 프레임워크 개발자(optional)</li>
+            <li>서비스나 제품을 내고 이를 매니징 이슈를 맞이하는 최전방 개발자(required)</li>
+            출처: https://medium.com/@deptno/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9E%80-b2c9af305aa0
+          </td>
+        </tr>
+        <tr>
+          <td>
+            index
+          </td>
+          <td>
+            yyyy.mm.dd
+          </td>
+          <td>
+            category
+          </td>
+          <td>
+            detail
           </td>
         </tr>
       </tbody>
