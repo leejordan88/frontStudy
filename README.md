@@ -1,6 +1,8 @@
 <html>
   <head>
-
+  <style>
+    .center{tetext-align:center;}
+  </style>
   </head>
   <body>
     <div>TIL(Today I Learned)</div>
@@ -27,10 +29,10 @@
       </thead>
       <tbody>
         <tr>
-          <td>
+          <td class = 'center'>
             1
           </td>
-          <td>
+          <td class = 'center'>
             2019.04.23
           </td>
           <td>
@@ -53,10 +55,10 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class = 'center'>
             2
           </td>
-          <td>
+          <td class = 'center'>
             2019.04.23
           </td>
           <td>
@@ -73,10 +75,10 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class = 'center'>
             index
           </td>
-          <td>
+          <td class = 'center'>
             yyyy.mm.dd
           </td>
           <td>
@@ -87,10 +89,10 @@
           </td>
         </tr>
         <tr>
-          <td>
+          <td class = 'center'>
             index
           </td>
-          <td>
+          <td class = 'center'>
             yyyy.mm.dd
           </td>
           <td>
