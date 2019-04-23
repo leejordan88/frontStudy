@@ -3,7 +3,6 @@
     <meta http-equiv="content-Type" content = "text/html; charset=UTF-8">
   </head>
   <body>
-  <h1>박지훈 짱짱걸</h1>
     <div>TIL(Today I Learned)</div>
     <table>
       <colgroup>
