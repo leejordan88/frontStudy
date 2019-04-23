@@ -1,7 +1,7 @@
 <html>
   <head>
   <style>
-    .center{tetext-align:center;}
+    .center {tetext-align:center;}
   </style>
   </head>
   <body>
