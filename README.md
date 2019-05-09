@@ -117,6 +117,8 @@
           </td>
           <td>
             <h3>Standard built-in Objects(표준 내장 객체)</h3>
+          </td>
+          <td>
             이 장은 JavaScript의 모든 표준 내장 객체와 그 메서드 및 속성을 나열합니다.<br>
             표준 내장 객체와 전역 객체를 헷갈리지 않도록 주의하세요.<br>
             표준 내장 객체는 전역 범위의 여러 객체를 일컫습니다.<br>
@@ -124,9 +126,6 @@
             globalThis를 사용해 접근할 수 있는 객체입니다.<br>
             사실 전역 범위는 전역 객체와 전역 객체가 상속한 속성으로 이루어집니다.<br>
             출처: <a>https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects</a>
-          </td>
-          <td>
-            detail
           </td>
         </tr>
         <tr>
