@@ -74,6 +74,85 @@
         </tr>
         <tr>
           <td style = 'tetext-align:center;'>
+            3
+          </td>
+          <td style = 'tetext-align:center;'>
+            2019.05.09
+          </td>
+          <td>
+            javascript Object
+          </td>
+          <td>
+            <h3>객체 선언 예시</h3>
+              var person = {<br>
+                name: ['Bob', 'Smith'],<br>
+                age: 32,<br>
+                gender: 'male',<br>
+                interests: ['music', 'skiing'],<br>
+                bio: function() {<br>
+                  alert(this.name[0] + ' ' + this.name[1] + ' is ' + this.age +<br>
+                  ' years old. He likes ' + this.interests[0] + ' and ' + this.interests[1] + '.');<br>
+                },<br>
+                greeting: function() {<br>
+                  alert('Hi! I\'m ' + this.name[0] + '.');<br>
+                }<br>
+              };<br>
+            <h3>표기법</h3>
+              점 표시법<br>
+              person.age<br>
+              person.interests[1]<br>
+              person.bio()<br>
+              괄호 표기법섹션<br>
+              person['age']<br>
+              person['name']['first']<br>
+            출처: <a>https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/Basics</a>
+          </td>
+        </tr>
+        <tr>
+          <td style = 'tetext-align:center;'>
+            4
+          </td>
+          <td style = 'tetext-align:center;'>
+            2019.05.09
+          </td>
+          <td>
+            <h3>Standard built-in Objects(표준 내장 객체)</h3>
+            <br>
+          </td>
+          <td>
+            detail
+          </td>
+        </tr>
+        <tr>
+          <td style = 'tetext-align:center;'>
+            index
+          </td>
+          <td style = 'tetext-align:center;'>
+            yyyy.mm.dd
+          </td>
+          <td>
+            category
+          </td>
+          <td>
+            detail
+          </td>
+        </tr>
+        <tr>
+          <td style = 'tetext-align:center;'>
+            index
+          </td>
+          <td style = 'tetext-align:center;'>
+            yyyy.mm.dd
+          </td>
+          <td>
+            category
+          </td>
+          <td>
+            detail
+          </td>
+        </tr>
+        <tr>
+          <td style = 'tetext-align:center;'>
             index
           </td>
           <td style = 'tetext-align:center;'>
