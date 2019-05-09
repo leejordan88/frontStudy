@@ -1,0 +1,6 @@
+-값 value, 식 expression, 문
+-truthy, falsy
+-scope, block
+-primitive, reference
+-const, let
+-function, parameter, argument
