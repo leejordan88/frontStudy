@@ -138,7 +138,7 @@
             2. 카운터 앱 "생성자 함수" 버전으로 변경하기<br>
           </td>
           <td>
-            detail
+            https://github.com/leejordan88/frontStudy/blob/master/homework/hotelAppConst.js
           </td>
         </tr>
         <tr>
