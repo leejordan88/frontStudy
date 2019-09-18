@@ -92,3 +92,4 @@ console.log(delnuna.checkOut(1111));
 console.log(delnuna.checkOut('이국주'));
 console.log(delnuna.checkOut('구혜선'));
 console.log(delnuna.getStatus());
+console.log(delnuna.getStatus());
