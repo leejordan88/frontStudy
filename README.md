@@ -128,13 +128,14 @@
         </tr>
         <tr>
           <td style = 'tetext-align:center;'>
-            index
+            5
           </td>
           <td style = 'tetext-align:center;'>
-            yyyy.mm.dd
+            2019.09.19
           </td>
           <td>
-            category
+            1. 호텔 앱 "생성자 함수" 버전으로 변경하기<br>
+            2. 카운터 앱 "생성자 함수" 버전으로 변경하기<br>
           </td>
           <td>
             detail
